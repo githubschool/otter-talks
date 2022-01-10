@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Chatty woz ere
+Chatty woz ere 🌮 
 
 ![minertocat](https://octodex.github.com/images/minertocat.png)
 {: .center}
