@@ -5,5 +5,5 @@ title: "Welcome to our slide deck!"
 
 Caption here
 
-![Mardigrastocat](https://octodex.github.com/images/Mardigrastocat.png)
+![Mardigrastocat](https://octodex.github.com/images/Fintechtocat.png)
 {: .center}
